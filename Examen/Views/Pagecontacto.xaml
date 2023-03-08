@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Examen.Views.PageContac">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White">
+            <Entry x:Name="txtnombre" 
+                   Placeholder="Nombre" 
+                   Keyboard="Text"
+                   TextColor="black"
+                   Margin="10,10,10,0"/>
+
+            <Entry x:Name="txttelefono" Placeholder="Telefono" Keyboard="Numeric" 
+                   Margin="10,10,10,0"/>
+
+            <Entry x:Name="edad" Placeholder="Edad" Keyboard="Numeric"
+                   Margin="10,10,10,0"/>
+
+            <Picker Title="Seleccione Pais" TitleColor="Black" Margin="10,10,10,0" x:Name="cbpais">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Honduras (504)</x:String>
+                        <x:String>Guatemala (502)</x:String>
+                        <x:String>Costa Rica (506)</x:String>
+                        <x:String>El salvador (503)</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Entry x:Name="txtnota" Placeholder="Comentario" Keyboard="Text"
+                   Margin="50,10,50,0"/>
+
+
+            <Entry x:Name="txtlatitud" Placeholder="Latitud" Keyboard="Text" 
+                   Margin="10,10,10,0" IsEnabled="false"/>
+
+            <Entry x:Name="txtlongitud" Placeholder="Longitud" Keyboard="Text" 
+                   Margin="10,10,10,0" IsEnabled="false"/>
+
+            <Button x:Name="btnsalvar" Text="Salvar Contacto" Clicked="btnsalvar_Clicked"                  
+                    Margin="10,10,10,0"
+                    BackgroundColor="Red"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

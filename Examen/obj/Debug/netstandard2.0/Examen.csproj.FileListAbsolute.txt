@@ -1,0 +1,54 @@
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\Examen.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\Views\PageContac.xaml.g.cs
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\Views\PageInitial.xaml.g.cs
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\Views\PageResultado.xaml.g.cs
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\Examen.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\Examen.AssemblyInfo.cs
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\Examen.dll
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\refint\Examen.dll
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\Examen.pdb
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\bin\Debug\netstandard2.0\Examen.deps.json
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\bin\Debug\netstandard2.0\Examen.dll
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\bin\Debug\netstandard2.0\Examen.pdb
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\Desktop\Tareas de Rad\Examen\Examen\obj\Debug\netstandard2.0\ref\Examen.dll
+C:\Users\hp\Desktop\Examen\Examen\bin\Debug\netstandard2.0\Examen.deps.json
+C:\Users\hp\Desktop\Examen\Examen\bin\Debug\netstandard2.0\Examen.dll
+C:\Users\hp\Desktop\Examen\Examen\bin\Debug\netstandard2.0\Examen.pdb
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\Examen.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\Views\PageContac.xaml.g.cs
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\Views\PageInitial.xaml.g.cs
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\Views\PageResultado.xaml.g.cs
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\Examen.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\Examen.AssemblyInfo.cs
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\Examen.dll
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\refint\Examen.dll
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\Examen.pdb
+C:\Users\hp\Desktop\Examen\Examen\obj\Debug\netstandard2.0\ref\Examen.dll
+C:\Users\DELL\Videos\Examen\Examen\bin\Debug\netstandard2.0\Examen.deps.json
+C:\Users\DELL\Videos\Examen\Examen\bin\Debug\netstandard2.0\Examen.dll
+C:\Users\DELL\Videos\Examen\Examen\bin\Debug\netstandard2.0\Examen.pdb
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\Examen.csproj.AssemblyReference.cache
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\Views\PageResultado.xaml.g.cs
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\Examen.AssemblyInfoInputs.cache
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\Examen.AssemblyInfo.cs
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\Examen.dll
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\refint\Examen.dll
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\Examen.pdb
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\ref\Examen.dll
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\Views\PageContacto.xaml.g.cs
+C:\Users\DELL\Videos\Examen\Examen\obj\Debug\netstandard2.0\Views\PageInicial.xaml.g.cs
